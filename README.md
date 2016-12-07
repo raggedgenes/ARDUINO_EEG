@@ -5,7 +5,7 @@ This little Arduino applet can read EEG signal provided by ARDUINO and visualize
 
 The hardware I used is described by Chipstein. (<a href="https://sites.google.com/site/chipstein/home-page/eeg-with-an-arduino">Link</a>)
 
-The wavelet transform code is a modified verion of Steve Hanov's Wavelet Sound Explorer. (<a href="http://stevehanov.ca/wavelet/">Link</a>)
+The wavelet transform code is a modified version of Steve Hanov's Wavelet Sound Explorer. (<a href="http://stevehanov.ca/wavelet/">Link</a>)
 
 <img src="https://github.com/raggedgenes/ARDUINO_EEG/blob/master/screenshot.png" />
 
