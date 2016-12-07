@@ -276,7 +276,7 @@
     <bool>true</bool>
    </property>
    <property name="icon">
-    <iconset resource="../resources/icons.qrc">
+    <iconset resource="resources/icons.qrc">
      <normaloff>:/images/signal.png</normaloff>
      <normalon>:/images/wavelet.ico</normalon>:/images/signal.png</iconset>
    </property>
@@ -290,7 +290,7 @@
  </widget>
  <layoutdefault spacing="6" margin="11"/>
  <resources>
-  <include location="../resources/icons.qrc"/>
+  <include location="resources/icons.qrc"/>
  </resources>
  <connections/>
 </ui>
