@@ -5,7 +5,7 @@ This little Arduino applet can read EEG signal provided by ARDUINO and visualize
 
 The hardware I used is described by Chipstein (<a href="https://sites.google.com/site/chipstein/home-page/eeg-with-an-arduino">Link</a>)
 
-<img src="./screenhot.png" />
+<img src="https://github.com/raggedgenes/ARDUINO_EEG/blob/master/screenshot.png" />
 
 This was only tested on Win7 and Win10.
 
