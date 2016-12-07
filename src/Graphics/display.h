@@ -3,7 +3,7 @@
 
 #include <QObject>
 #include <QGLWidget>
-#include "eegreader.h"
+#include "../eegreader.h"
 
 //#define X_SIZE 1500
 //class EEGReader;

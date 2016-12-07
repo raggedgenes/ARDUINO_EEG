@@ -13,10 +13,10 @@ greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 TARGET = ARD_EEG
 TEMPLATE = app
-
+SUBDIRS = src
 
 SOURCES += src/main.cpp\
-        mainwindow.cpp \
+        src/mainwindow.cpp \
 #    src/glwidget.cpp \
 #    src/Graphics/sinuscurve.cpp \
 #    src/Graphics/testfftw3.cpp \
@@ -34,7 +34,7 @@ SOURCES += src/main.cpp\
     src/Graphics/spectrograph.cpp \
 #    src/Analysis/spectrogram.cpp
 
-HEADERS  += mainwindow.h \
+HEADERS  += src/mainwindow.h \
 #    glwidget.h \
 #    src/Graphics/sinuscurve.h \
 #    src/fftw3.h \

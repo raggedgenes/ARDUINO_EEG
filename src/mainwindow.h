@@ -7,7 +7,7 @@
 #include "Graphics/glwidget.h"
 #include "Graphics/display.h"
 #include "Graphics/monitor.h"
-#include "eegreader.h"
+#include "./eegreader.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {

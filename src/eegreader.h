@@ -6,8 +6,8 @@
 #include <QWidget>
 #include <QtWidgets>
 #include "fftw3.h"
-#include <Analysis/scalogram.h>
-#include <Graphics/spectrograph.h>
+#include "Analysis/scalogram.h"
+#include "Graphics/spectrograph.h"
 #include "Graphics/display.h"
 #include "Graphics/monitor.h"
 #include "Utils/serialreading.h"

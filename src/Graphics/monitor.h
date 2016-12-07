@@ -3,7 +3,7 @@
 
 #include <QWidget>
 #include <QMouseEvent>
-#include "eegreader.h"
+#include "../eegreader.h"
 
 class EEGReader;
 

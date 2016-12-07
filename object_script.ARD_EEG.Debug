@@ -14,6 +14,7 @@ INPUT(
 ./debug\spectrograph.o
 ./debug\ard_eeg_plugin_import.o
 ./debug\qrc_icons.o
+./debug\moc_mainwindow.o
 ./debug\moc_eegreader.o
 ./debug\moc_settingsdialog.o
 ./debug\moc_console.o

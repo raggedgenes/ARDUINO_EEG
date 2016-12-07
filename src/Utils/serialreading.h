@@ -3,7 +3,7 @@
 
 #include <QThread>
 #include <QSerialPort>
-#include "Graphics/display.h"
+#include "../Graphics/display.h"
 
 class RTDisplay;
 

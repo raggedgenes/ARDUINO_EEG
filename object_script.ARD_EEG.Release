@@ -14,6 +14,7 @@ INPUT(
 ./release\spectrograph.o
 ./release\ard_eeg_plugin_import.o
 ./release\qrc_icons.o
+./release\moc_mainwindow.o
 ./release\moc_eegreader.o
 ./release\moc_settingsdialog.o
 ./release\moc_console.o
